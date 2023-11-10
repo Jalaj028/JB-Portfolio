@@ -29,10 +29,10 @@ const siteProps = {
   email: "jalajbhatt2004@gmail.com",
   gitHub: "Jalaj028",
   instagram: "microsoft",
-  linkedIn: "https://www.linkedin.com/in/jalaj-bhatt-b871a1235/",
+  linkedIn: "jalaj-bhatt-b871a1235",
   medium: "",
-  twitter: "https://twitter.com/jalajbhatt2",
-  youTube: "Code",
+  twitter: "jalajbhatt2",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
