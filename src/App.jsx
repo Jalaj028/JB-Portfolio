@@ -27,9 +27,9 @@ const siteProps = {
   name: "Jalaj Bhatt",
   title: "Full Stack developer | MERN Stack | Java",
   email: "jalajbhatt2004@gmail.com",
-  gitHub: "microsoft",
+  gitHub: "Jalaj028",
   instagram: "microsoft",
-  linkedIn: "satyanadella",
+  linkedIn: "Jalaj Bhatt",
   medium: "",
   twitter: "microsoft",
   youTube: "Code",
@@ -42,7 +42,7 @@ const App = () => {
   return (
     <div id="main">
       <Header />
-      <Home name={siteProps.name} title={siteProps.title} />
+      <Home name={siteProps.name} title={siteProps.title} style={{textAlign:"center"}}/>
       <About />
       <Portfolio />
       <Footer {...siteProps} primaryColor={primaryColor} secondaryColor={secondaryColor} />
