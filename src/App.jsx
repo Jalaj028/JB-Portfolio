@@ -29,9 +29,9 @@ const siteProps = {
   email: "jalajbhatt2004@gmail.com",
   gitHub: "Jalaj028",
   instagram: "microsoft",
-  linkedIn: "Jalaj Bhatt",
+  linkedIn: "https://www.linkedin.com/in/jalaj-bhatt-b871a1235/",
   medium: "",
-  twitter: "microsoft",
+  twitter: "https://twitter.com/jalajbhatt2",
   youTube: "Code",
 };
 
