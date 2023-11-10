@@ -27,8 +27,8 @@ const description =
   "I'm a b.tech undergrad studying at Birla Institute Of Applied Sciences, Bhimtal. I enjoy learning new tech stacks, currently I am learning MERN stack.";
 
 
- * Mernstack | Java | Open Source
- * I am passionate about contributing to open source repositories and building real world projects
+ // * Mernstack | Java | Open Source
+ // * I am passionate about contributing to open source repositories and building real world projects
  
 const skillsList = [
   "Mongodb",
