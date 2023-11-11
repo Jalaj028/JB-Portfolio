@@ -24,7 +24,7 @@ const imageAltText = "tech image";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a b.tech undergrad studying at Birla Institute Of Applied Sciences, Bhimtal. I enjoy learning new tech stacks, currently I am learning MERN stack.";
+  "I'm a second year b.tech undergrad studying at Birla Institute Of Applied Sciences, Bhimtal. I enjoy learning new tech stacks, currently I am learning MERN stack.";
 
 
  // * Mernstack | Java | Open Source
