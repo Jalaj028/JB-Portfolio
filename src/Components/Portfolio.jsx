@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "HacktoberFest",
     description:
-      "Earnrd final level four badge in hacktober fest by contributing to various open source projects",
+      "Earned final level four badge in hacktober fest by contributing to various open source projects",
     url: "https://www.holopin.io/@jalaj028#",
   },
   {
