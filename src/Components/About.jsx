@@ -18,7 +18,7 @@ import React from "react";
  */
 import image from "../images/tech.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "tech image";
 
 /**
  * Sort description that expands on your title on the Home component.
@@ -37,6 +37,7 @@ const skillsList = [
   "React",
   "Express",
   "Java",
+  "Typescript"
 ];
 
 /**
@@ -45,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By actively contributing to opensouce repositories i try to sharpen my skills.";
+  "I am passionate about solving problems in new creative ways to drive innovation. I try to sharpen my skills by actively contributing to opensouce repositories.";
 
 const About = () => {
   return (
