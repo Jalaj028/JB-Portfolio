@@ -41,6 +41,12 @@ const projectList = [
     description:
       "Building technoforum website for our college",
     url: "https://technoforum.onrender.com/",
+  },
+   {
+    title: "Blog",
+    description:
+      "My Hashnode Profile",
+    url: "https://hashnode.com/@Jalaj2004",
   }
 ];
 
