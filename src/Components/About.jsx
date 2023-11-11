@@ -34,10 +34,13 @@ const skillsList = [
   "Mongodb",
   "Javascript",
   "Nodejs",
-  "React",
+  "Reactjs",
   "Express",
   "Java",
-  "Typescript"
+  "Typescript",
+  "Git and Github",
+  "Nextjs",
+  "Data Structures"
 ];
 
 /**
