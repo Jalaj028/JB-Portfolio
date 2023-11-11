@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Jalaj Bhatt",
-  title: "Full Stack developer | MERN Stack | Java",
+  title: "Full Stack developer | MERN Stack | Java | OpenSource",
   email: "jalajbhatt2004@gmail.com",
   gitHub: "Jalaj028",
   instagram: "microsoft",
