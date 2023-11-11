@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/blue.jpeg";
+import image from "../images/blue.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "blue background";
 
 /**
  * Project list
@@ -35,6 +35,12 @@ const projectList = [
     description:
       "Earnrd final level four badge in hacktober fest by contributing to various open source projects",
     url: "https://github.com/Jalaj028",
+  },
+  {
+    title: "Technoforum website for college",
+    description:
+      "Building technoforum website for our college",
+    url: "https://technoforum.onrender.com/",
   }
 ];
 
